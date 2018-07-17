@@ -1,1 +1,1 @@
-# Hanged-Man-V-1
+First version of the Hanged Man game.
